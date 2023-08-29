@@ -1,0 +1,12 @@
+E:\school2021.pyatkin-main\HttpDownloader\HttpFileDownloader.Core\bin\Debug\net6.0\HttpFileDownloader.Core.deps.json
+E:\school2021.pyatkin-main\HttpDownloader\HttpFileDownloader.Core\bin\Debug\net6.0\HttpFileDownloader.Core.dll
+E:\school2021.pyatkin-main\HttpDownloader\HttpFileDownloader.Core\bin\Debug\net6.0\HttpFileDownloader.Core.pdb
+E:\school2021.pyatkin-main\HttpDownloader\HttpFileDownloader.Core\obj\Debug\net6.0\HttpFileDownloader.Core.csproj.AssemblyReference.cache
+E:\school2021.pyatkin-main\HttpDownloader\HttpFileDownloader.Core\obj\Debug\net6.0\HttpFileDownloader.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\school2021.pyatkin-main\HttpDownloader\HttpFileDownloader.Core\obj\Debug\net6.0\HttpFileDownloader.Core.AssemblyInfoInputs.cache
+E:\school2021.pyatkin-main\HttpDownloader\HttpFileDownloader.Core\obj\Debug\net6.0\HttpFileDownloader.Core.AssemblyInfo.cs
+E:\school2021.pyatkin-main\HttpDownloader\HttpFileDownloader.Core\obj\Debug\net6.0\HttpFileDownloader.Core.csproj.CoreCompileInputs.cache
+E:\school2021.pyatkin-main\HttpDownloader\HttpFileDownloader.Core\obj\Debug\net6.0\HttpFileDownloader.Core.dll
+E:\school2021.pyatkin-main\HttpDownloader\HttpFileDownloader.Core\obj\Debug\net6.0\refint\HttpFileDownloader.Core.dll
+E:\school2021.pyatkin-main\HttpDownloader\HttpFileDownloader.Core\obj\Debug\net6.0\HttpFileDownloader.Core.pdb
+E:\school2021.pyatkin-main\HttpDownloader\HttpFileDownloader.Core\obj\Debug\net6.0\ref\HttpFileDownloader.Core.dll
